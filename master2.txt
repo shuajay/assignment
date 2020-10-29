@@ -26,3 +26,5 @@ git merge <branch> # to merge branches
 git remote add origin https://github.com/shuajay/assignment.git
 
 git remote # check remote repo
+
+git push -u origin main # oush to remote repo
