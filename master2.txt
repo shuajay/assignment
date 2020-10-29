@@ -22,3 +22,7 @@ touch .gitignore #used to create files you wouldn't want to add to the git local
 $ git branch staging #create a branch
 $ git checkout staging #switch over to branch staging
 git merge <branch> # to merge branches
+
+git remote add origin https://github.com/shuajay/assignment.git
+
+git remote # check remote repo
